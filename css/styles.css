@@ -1,0 +1,48 @@
+/* Mobile */
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    background: orangered;
+    color: white;
+    padding: 5px;
+}
+
+header nav  ul li {
+    width: 90%;
+    background-color: green;
+    margin-bottom: 3px;
+}
+
+main {
+    background: orchid;
+}
+
+main h1 {
+    color: white;
+    text-align: center;
+}
+
+main div {
+    padding: 10px;
+    margin: 5px;
+    border: orangered solid 2px;
+    height: 300px;
+}
+
+main p {
+    padding: 5px;
+}
+
+footer {
+    font-size: small;
+}
+
+
+/* Tablet CSS */
