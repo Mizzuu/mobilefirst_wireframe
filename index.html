@@ -4,8 +4,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wk5 - Mobile First</title>
+    <title>jquery practice</title>
     <link rel="stylesheet" href="css/styles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        alert("connected");
+        $(() => {
+            $("header h1").prepend("New Heading: ");
+            alert("loaded");
+        });
+    </script>
 </head>
 
 <body>

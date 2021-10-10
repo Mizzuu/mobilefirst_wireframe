@@ -1,0 +1,23 @@
+{
+  "name": "jquery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mizzuu/mobilefirst_wireframe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mizzuu/mobilefirst_wireframe/issues"
+  },
+  "homepage": "https://github.com/Mizzuu/mobilefirst_wireframe#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "description": ""
+}
